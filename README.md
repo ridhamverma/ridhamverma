@@ -55,7 +55,7 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 - 📫 Reach me at: <span style="color: #7F01B3;">ridham.verma.ai@gmail.com</span>
 </td>
 <td width="35%" valign="middle">
-<img alt="Coding" style="width: 100%; border-radius: 15px; display: block;" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img alt="Coding" style="width: 100%; max-height: 230px; object-fit: cover; border-radius: 15px;" src="https://i.redd.it/n8agw6z2smyb1.gif">
 </td>
 </tr>
 </table>
@@ -131,3 +131,4 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F01B3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+collaborate!+%F0%9F%9A%80" alt="Footer Animation" />
 </div>
+
