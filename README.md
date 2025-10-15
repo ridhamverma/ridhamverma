@@ -1,3 +1,4 @@
+https://i.pinimg.com/originals/1f/4b/35/1f4b35d97fd51c3cdb41c375f0887865.gif
 <h1 align="center">Hi 👋, I'm Ridham Verma</h1>
 <h3 align="center">Exploring Artificial Intelligence and Machine Learning</h3>
 
