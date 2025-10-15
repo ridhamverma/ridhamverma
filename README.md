@@ -26,27 +26,16 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 <h2><img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-506.gif" width="30px" height="30px"> About Me</h2>
 I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B38FF;">Computer Science Student</span> and passionate learner exploring the fascinating world of <span style="color: #7F01B3;">Artificial Intelligence</span> and <span style="color: #9D4EDD;">Machine Learning</span>.
 
-
-
-
-
 🔭 Building innovative AI/ML projects
-
-
 
 🌱 Currently mastering Python and Deep Learning
 
-
-
 💡 Love experimenting with new technologies
-
-
 
 🎯 Continuously expanding my knowledge in AI/ML
 
-
-
 📫 Reach me at: <span style="color: #7F01B3;">ridham.verma.ai@gmail.com</span>
+
 </td>
 <td width="35%" valign="top">
 <img alt="Coding" style="width: 100%; height: 100%; object-fit: cover; border-radius: 15px; display: block;" src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif">
@@ -85,10 +74,10 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 
 
-
 <a href="https://leetcode.com/u/ridhamverma/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/></a>
-&nbsp;&nbsp;
+  
 <a href="https://www.kaggle.com/vridham14" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="40"/></a>
+
 </td>
 <td width="35%" valign="middle">
 <img align="right" alt="Competitive Programming GIF" width="100%" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
@@ -117,15 +106,19 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <p align="center">Feel free to reach out, connect, or follow my work. I'm always open to collaborating on interesting projects or just having a chat about tech!</p>
 <div align="center">
 <a href="https://twitter.com/@vridham14" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740&q=80" alt="Twitter" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/ridham-verma-871ba637a" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.freepik.com/premium-vector/linkedin-logo-icon_1273375-1174.jpg?semt=ais_hybrid&w=740&q=80" alt="LinkedIn" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ridham.verma.ai@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.freepik.com/premium-vector/gmail-icon_1273375-1247.jpg?semt=ais_hybrid&w=740&q=80" alt="Email" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/ridhamv14/" target="_blank">
+<img src="https://img.freepik.com/premium-psd/instagram-logo-iconic-social-media-app-icon_1131634-479.jpg?semt=ais_hybrid&w=740&q=80" alt="Instagram" height="40"/>
 </a>
 </div>
 
