@@ -55,7 +55,7 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 - 📫 Reach me at: <span style="color: #7F01B3;">ridham.verma.ai@gmail.com</span>
 </td>
 <td width="35%" valign="top">
-<img alt="Coding" style="width: 100%; border-radius: 15px; display: block;" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img alt="Coding" style="width: 100%; height: 100%; object-fit: cover; border-radius: 15px; display: block;" src="https://i.redd.it/n8agw6z2smyb1.gif">
 </td>
 </tr>
 </table>
@@ -72,7 +72,7 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 <table>
 <tr>
 <td width="65%" valign="top">
-<h2><img src="https://www.google.com/search?q=https://i.pinimg.com/originals/c7/27/a3/c727a363a0a1f0a256a525f7560416de.gif" width="30px" height="30px"> Competitive Programming</h2>
+<h2><img src="https://cdn.dribbble.com/userupload/27825646/file/original-6e8da3989fcad2eda281b9a4f1bd1d00.gif" width="30px" height="30px"> Competitive Programming</h2>
 I actively participate in competitive programming to sharpen my problem-solving skills and algorithmic thinking. You can find me honing my skills on these platforms:
 
 
