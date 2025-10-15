@@ -12,7 +12,7 @@
 
 <br>
 
-## <img src="https://i.pinimg.com/originals/8d/1d/48/8d1d484ed41161f87a7c222349d711ae.gif" width="30px" height="30px"> About Me
+## <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-506.gif" width="30px" height="30px"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
