@@ -78,6 +78,32 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 
 <!-- Section Divider -->
 
+<!-- Competitive Programming Section -->
+
+<table>
+<tr>
+<td width="65%" valign="top">
+<h2><img src="https://www.google.com/search?q=https://i.pinimg.com/originals/c7/27/a3/c727a363a0a1f0a256a525f7560416de.gif" width="30px" height="30px"> Competitive Programming</h2>
+I actively participate in competitive programming to sharpen my problem-solving skills and algorithmic thinking. You can find me honing my skills on these platforms:
+
+
+
+
+
+
+
+<a href="https://leetcode.com/u/ridhamverma/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-000000%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3D%23d16c06" alt="LeetCode"/></a>
+&nbsp;&nbsp;
+<a href="https://www.kaggle.com/vridham14" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3DKaggle%26logoColor%3Dwhite" alt="Kaggle"/></a>
+</td>
+<td width="35%" valign="middle">
+<img align="right" alt="Competitive Programming GIF" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybnI0N2MwY3RxanJiMjd3ajJoaXo3cDA5aWdqamEydW9mMGRhZndsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/200.gif">
+</td>
+</tr>
+</table>
+
+<!-- Section Divider -->
+
 <!-- GitHub Stats -->
 
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="30px" height="30px"> <span style="color: #7F01B3;">GitHub Stats</span></h2>
