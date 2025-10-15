@@ -4,11 +4,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F01B3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Exploring+AI+and+ML;Python+Enthusiast;Continuous+Learner" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F01B3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Exploring+AI+and+ML;Continuous+Learner;Building+the+Future" alt="Typing Animation" />
   </a>
 </div>
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ridham Verma
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm <span style="color: #7F01B3;">Ridham Verma</span>
 
 <br>
 
@@ -16,23 +16,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
-I am **Ridham Verma**, a **Computer Science Student** and passionate learner exploring the fascinating world of **Artificial Intelligence** and **Machine Learning**.
+I am **<span style="color: #9D4EDD;">Ridham Verma</span>**, a **<span style="color: #B388FF;">Computer Science Student</span>** and passionate learner exploring the fascinating world of **<span style="color: #7F01B3;">Artificial Intelligence</span>** and **<span style="color: #9D4EDD;">Machine Learning</span>**.
 
-- 🔭 Building innovative AI/ML projects
-- 🌱 Currently mastering **Python**
-- 💡 Love experimenting with new technologies
-- 🎯 Continuously expanding my knowledge in AI/ML
-- 📫 Reach me at: **ridham.verma.ai@gmail.com**
+- 🔭 Building innovative **AI/ML projects**
+- 🌱 Currently mastering **Python** and **Deep Learning**
+- 💡 Love experimenting with **new technologies**
+- 🎯 Continuously expanding my knowledge in **AI/ML**
+- 📫 Reach me at: **<span style="color: #7F01B3;">ridham.verma.ai@gmail.com</span>**
 
 <br clear="right"/>
 
-## <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="40px" height="30px"> Languages and Tools
+## <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="40px" height="30px"> <span style="color: #7F01B3;">Languages and Tools</span>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="filter: drop-shadow(0 0 10px #7F01B3);"/>
 </div>
 
-## <img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="30px" height="30px"> GitHub Stats
+## <img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="30px" height="30px"> <span style="color: #7F01B3;">GitHub Stats</span>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ridhamverma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F01B3&icon_color=7F01B3" alt="GitHub Stats" height="170"/>
