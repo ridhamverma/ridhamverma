@@ -14,7 +14,7 @@
 
 ## <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-506.gif" width="30px" height="30px"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="350" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 I am **<span style="color: #9D4EDD;">Ridham Verma</span>**, a **<span style="color: #B388FF;">Computer Science Student</span>** and passionate learner exploring the fascinating world of **<span style="color: #7F01B3;">Artificial Intelligence</span>** and **<span style="color: #9D4EDD;">Machine Learning</span>**.
 
@@ -43,7 +43,7 @@ I am **<span style="color: #9D4EDD;">Ridham Verma</span>**, a **<span style="col
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhamverma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F01B3" alt="Top Languages" />
 </div>
 
-## <img src="https://media.tenor.com/9cC_TaRxiNkAAAAM/dedsec.gif" width="30px" height="30px"> Connect with Me
+## <img src="https://media.tenor.com/9cC_TaRxiNkAAAAM/dedsec.gif" width="30px" height="30px"> <span style="color: #7F01B3;">Connect with Me</span>
 
 <div align="center">
   <a href="https://twitter.com/@vridham14" target="_blank">
