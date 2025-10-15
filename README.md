@@ -55,7 +55,7 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 - 📫 Reach me at: <span style="color: #7F01B3;">ridham.verma.ai@gmail.com</span>
 </td>
 <td width="35%" valign="top">
-<img alt="Coding" style="width: 100%; height: 100%; object-fit: cover; border-radius: 15px; display: block;" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img alt="Coding" style="width: 100%; height: 300%; object-fit: cover; border-radius: 15px; display: block;" src="https://i.redd.it/n8agw6z2smyb1.gif">
 </td>
 </tr>
 </table>
