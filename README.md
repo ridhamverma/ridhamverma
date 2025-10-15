@@ -16,7 +16,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 - 🌱 I’m currently learning **Python**  
-- 📫 How to reach me: **Ridham.verma.ai@gmail.com**
+- 📫 How to reach me: **ridham.verma.ai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
