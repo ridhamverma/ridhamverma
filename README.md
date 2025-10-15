@@ -49,12 +49,12 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 
 <table>
 <tr>
-<td width="35%" valign="middle">
-<img align="right" alt="Languages and Tools GIF" width="100%" src="https://giffiles.alphacoders.com/215/215468.gif">
-</td>
 <td width="65%" valign="top" align="center">
 <h2 align="center"><img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="40px" height="30px"> <span style="color: #7F01B3;">Languages and Tools</span></h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="filter: drop-shadow(0 0 10px #7F01B3);"/>
+</td>
+<td width="35%" valign="middle">
+<img align="right" alt="Languages and Tools GIF" width="100%" src="https://giffiles.alphacoders.com/215/215468.gif">
 </td>
 </tr>
 </table>
@@ -75,7 +75,7 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 
 <a href="https://leetcode.com/u/ridhamverma/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/></a>
-  
+  
 <a href="https://www.kaggle.com/vridham14" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="40"/></a>
 
 </td>
