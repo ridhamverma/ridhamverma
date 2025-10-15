@@ -30,7 +30,6 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 
 
 
-
 🔭 Building innovative AI/ML projects
 
 
@@ -101,12 +100,6 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 <!-- GitHub Stats -->
 
-<table>
-<tr>
-<td width="35%" valign="middle">
-<img align="left" alt="GitHub Stats GIF" width="100%" src="https://www.google.com/search?q=https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</td>
-<td width="65%" valign="top" align="center">
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="30px" height="30px"> <span style="color: #7F01B3;">GitHub Stats</span></h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ridhamverma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F01B3&icon_color=7F01B3" alt="GitHub Stats" height="170"/>
@@ -115,26 +108,13 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhamverma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F01B3" alt="Top Languages" />
 </div>
-</td>
-</tr>
-</table>
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 
 <!-- Connect with Me -->
 
-<table>
-<tr>
-<td width="65%" valign="top">
-<h2><img src="https://media.tenor.com/9cC_TaRxiNkAAAAM/dedsec.gif" width="30px" height="30px"> Connect with Me</h2>
-Feel free to reach out, connect, or follow my work. I'm always open to collaborating on interesting projects or just having a chat about tech!
-
-
-
-
-
-
-
+<h2 align="center"><img src="https://media.tenor.com/9cC_TaRxiNkAAAAM/dedsec.gif" width="30px" height="30px"> <span style="color: #7F01B3;">Connect with Me</span></h2>
+<p align="center">Feel free to reach out, connect, or follow my work. I'm always open to collaborating on interesting projects or just having a chat about tech!</p>
 <div align="center">
 <a href="https://twitter.com/@vridham14" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -148,12 +128,6 @@ Feel free to reach out, connect, or follow my work. I'm always open to collabora
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </div>
-</td>
-<td width="35%" valign="middle">
-<img align="right" alt="Connect GIF" width="100%" src="https://www.google.com/search?q=https://media.tenor.com/2C28_FFa-50AAAAC/hacker-matrix.gif">
-</td>
-</tr>
-</table>
 
 <!-- Footer -->
 
