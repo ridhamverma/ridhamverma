@@ -8,11 +8,11 @@
   </a>
 </div>
 
-# 👋 Hi, I'm Ridham Verma
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ridham Verma
 
 <br>
 
-## 🚀 About Me
+## <img src="https://i.pinimg.com/originals/8d/1d/48/8d1d484ed41161f87a7c222349d711ae.gif" width="30px" height="30px"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
@@ -26,19 +26,13 @@ I am **Ridham Verma**, a passionate learner exploring the fascinating world of *
 
 <br clear="right"/>
 
-## 🛠️ Languages and Tools
+## <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="40px" height="30px"> Languages and Tools
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="30px" height="30px"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ridhamverma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F01B3&icon_color=7F01B3" alt="GitHub Stats" height="170"/>
@@ -49,7 +43,7 @@ I am **Ridham Verma**, a passionate learner exploring the fascinating world of *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhamverma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F01B3" alt="Top Languages" />
 </div>
 
-## 🤝 Connect with Me
+## <img src="https://media.tenor.com/9cC_TaRxiNkAAAAM/dedsec.gif" width="30px" height="30px"> Connect with Me
 
 <div align="center">
   <a href="https://twitter.com/@vridham14" target="_blank">
