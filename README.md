@@ -81,9 +81,9 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 
 
-<a href="https://leetcode.com/u/ridhamverma/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-000000%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dorange" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/ridhamverma/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/></a>
 &nbsp;&nbsp;
-<a href="https://www.kaggle.com/vridham14" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3DKaggle%26logoColor%3Dwhite" alt="Kaggle"/></a>
+<a href="https://www.kaggle.com/vridham14" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="40"/></a>
 </td>
 <td width="35%" valign="middle">
 <img align="right" alt="Competitive Programming GIF" width="100%" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
