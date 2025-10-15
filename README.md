@@ -54,8 +54,8 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 
 - 📫 Reach me at: <span style="color: #7F01B3;">ridham.verma.ai@gmail.com</span>
 </td>
-<td width="35%" valign="middle">
-<img alt="Coding" style="width: 100%; max-height: 230px; object-fit: cover; border-radius: 15px;" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<td width="35%" valign="top">
+<img alt="Coding" style="width: 100%; border-radius: 15px; display: block;" src="https://i.redd.it/n8agw6z2smyb1.gif">
 </td>
 </tr>
 </table>
@@ -86,7 +86,7 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <a href="https://www.kaggle.com/vridham14" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3DKaggle%26logoColor%3Dwhite" alt="Kaggle"/></a>
 </td>
 <td width="35%" valign="middle">
-<img align="right" alt="Competitive Programming GIF" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybnI0N2MwY3RxanJiMjd3ajJoaXo3cDA5aWdqamEydW9mMGRhZndsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/200.gif">
+<img align="right" alt="Competitive Programming GIF" width="100%" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 </td>
 </tr>
 </table>
@@ -131,4 +131,3 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F01B3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+collaborate!+%F0%9F%9A%80" alt="Footer Animation" />
 </div>
-
