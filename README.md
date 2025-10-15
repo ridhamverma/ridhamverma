@@ -62,10 +62,17 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 
 <!-- Languages and Tools -->
 
+<table>
+<tr>
+<td width="35%" valign="middle">
+<img align="left" alt="Languages and Tools GIF" width="100%" src="https://giffiles.alphacoders.com/215/215468.gif">
+</td>
+<td width="65%" valign="top" align="center">
 <h2 align="center"><img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="40px" height="30px"> <span style="color: #7F01B3;">Languages and Tools</span></h2>
-<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="filter: drop-shadow(0 0 10px #7F01B3);"/>
-</div>
+</td>
+</tr>
+</table>
 
 <!-- Competitive Programming Section -->
 
