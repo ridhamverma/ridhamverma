@@ -4,9 +4,6 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/062/536/706/original/wesley-ways-cyber-city.gif?1683370675" alt="Cyber City Banner" width="100%">
 </div>
 
-
-
-
 <!-- Typing Animation -->
 
 <div align="center">
@@ -40,9 +37,7 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 
 
 
-
 - 🌱 Currently mastering Python and Deep Learning
-
 
 
 
@@ -52,9 +47,7 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 
 
 
-
 - 🎯 Continuously expanding my knowledge in AI/ML
-
 
 
 
@@ -62,12 +55,10 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 - 📫 Reach me at: <span style="color: #7F01B3;">ridham.verma.ai@gmail.com</span>
 </td>
 <td width="35%" valign="middle">
-<img align="right" alt="Coding" width="100%" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img alt="Coding" style="width: 100%; border-radius: 15px; display: block;" src="https://i.redd.it/n8agw6z2smyb1.gif">
 </td>
 </tr>
 </table>
-
-<!-- Section Divider -->
 
 <!-- Languages and Tools -->
 
@@ -75,8 +66,6 @@ I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="filter: drop-shadow(0 0 10px #7F01B3);"/>
 </div>
-
-<!-- Section Divider -->
 
 <!-- Competitive Programming Section -->
 
@@ -92,7 +81,7 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 
 
-<a href="https://leetcode.com/u/ridhamverma/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-000000%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3D%23d16c06" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/ridhamverma/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-000000%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dorange" alt="LeetCode"/></a>
 &nbsp;&nbsp;
 <a href="https://www.kaggle.com/vridham14" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3DKaggle%26logoColor%3Dwhite" alt="Kaggle"/></a>
 </td>
@@ -101,8 +90,6 @@ I actively participate in competitive programming to sharpen my problem-solving 
 </td>
 </tr>
 </table>
-
-<!-- Section Divider -->
 
 <!-- GitHub Stats -->
 
@@ -114,8 +101,6 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhamverma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F01B3" alt="Top Languages" />
 </div>
-
-<!-- Section Divider -->
 
 <!-- Connect with Me -->
 
@@ -134,12 +119,14 @@ I actively participate in competitive programming to sharpen my problem-solving 
 </a>
 </div>
 
-
-
-
 <!-- Footer -->
 
 <div align="center">
+
+
+
+
+
 <img src="https://komarev.com/ghpvc/?username=ridhamverma&label=Profile%20Views&color=7F01B3&style=flat-square" alt="Profile Views" />
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F01B3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+collaborate!+%F0%9F%9A%80" alt="Footer Animation" />
