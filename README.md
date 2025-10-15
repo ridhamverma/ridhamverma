@@ -125,7 +125,6 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <!-- Footer -->
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ridhamverma&label=Profile%20Views&color=7F01B3&style=flat-square" alt="Profile Views" />
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F01B3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+collaborate!+%F0%9F%9A%80" alt="Footer Animation" />
 </div>
