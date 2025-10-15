@@ -11,13 +11,31 @@
 </p>
 
 <h3 align="center">Exploring Artificial Intelligence and Machine Learning</h3>
+<hr style="border: 2px solid #7F01B3; width: 80%; margin: 20px auto;">
 
 <!-- Side Image -->
 <img align="right" alt="Coding" width="300" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
-- 🌱 I’m currently learning **Python**  
-- 📫 How to reach me: **ridham.verma.ai@gmail.com**
+<!-- About Me Section with GIF on same line -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://cdn.dribbble.com/userupload/23459027/file/original-1121e08bfcd4177122102230f2f3099a.gif" alt="About Me GIF" width="100px">
+  <div>
+    <h3>About Me</h3>
+    <p>
+      I am Ridham Verma, a passionate learner exploring the world of Artificial Intelligence and Machine Learning.  
+      I love experimenting with Python, building projects, and continuously expanding my knowledge in AI/ML technologies.
+    </p>
+    <p>
+      - 🌱 I’m currently learning <b>Python</b><br>
+      - 📫 How to reach me: <b>ridham.verma.ai@gmail.com</b>
+    </p>
+  </div>
+</div>
 
+<!-- Big Line Separator after About Me -->
+<hr style="border: 2px solid #7F01B3; width: 80%; margin: 30px auto;">
+
+<!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@vridham14" target="_blank">
