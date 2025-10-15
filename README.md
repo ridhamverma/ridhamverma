@@ -24,7 +24,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 <tr>
 <td width="65%" valign="top">
 <h2><img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-506.gif" width="30px" height="30px"> About Me</h2>
-I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B388FF;">Computer Science Student</span> and passionate learner exploring the fascinating world of <span style="color: #7F01B3;">Artificial Intelligence</span> and <span style="color: #9D4EDD;">Machine Learning</span>.
+I am <span style="color: #9D4EDD;">Ridham Verma</span>, a <span style="color: #B38FF;">Computer Science Student</span> and passionate learner exploring the fascinating world of <span style="color: #7F01B3;">Artificial Intelligence</span> and <span style="color: #9D4EDD;">Machine Learning</span>.
 
 
 
