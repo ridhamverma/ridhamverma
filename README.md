@@ -13,7 +13,7 @@
 <h3 align="center">Exploring Artificial Intelligence and Machine Learning</h3>
 
 <!-- Side Image -->
-<img align="right" alt="Coding" width="200" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="300" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 - 🌱 I’m currently learning **Python**  
 - 📫 How to reach me: **Ridham.verma.ai@gmail.com**
